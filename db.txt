@@ -1,4 +1,4 @@
-Problems Solved: 7
+Problems Solved: 12
 
 Problem ID|Problem URL|Answer|
 |different|https://open.kattis.com/problems/different|https://github.com/sh3ngsh3ng/kattis-python-solutions/solutions/different|
@@ -8,3 +8,8 @@ Problem ID|Problem URL|Answer|
 |bela|https://open.kattis.com/problems/bela|https://github.com/sh3ngsh3ng/kattis-python-solutions/solutions/bela|
 |undeadoralive|https://open.kattis.com/problems/undeadoralive|https://github.com/sh3ngsh3ng/kattis-python-solutions/solutions/undeadoralive|
 |abc|https://open.kattis.com/problems/abc|https://github.com/sh3ngsh3ng/kattis-python-solutions/solutions/abc|
+|twostones|https://open.kattis.com/problems/twostones|https://github.com/sh3ngsh3ng/kattis-python-solutions/solutions/twostones|
+|kemija08|https://open.kattis.com/problems/kemija08|https://github.com/sh3ngsh3ng/kattis-python-solutions/solutions/kemija08|
+|fyi|https://open.kattis.com/problems/fyi|https://github.com/sh3ngsh3ng/kattis-python-solutions/solutions/fyi|
+|quadrant|https://open.kattis.com/problems/quadrant|https://github.com/sh3ngsh3ng/kattis-python-solutions/solutions/quadrant|
+|jackolanternjuxtaposition|https://open.kattis.com/problems/jackolanternjuxtaposition|https://github.com/sh3ngsh3ng/kattis-python-solutions/solutions/jackolanternjuxtaposition|

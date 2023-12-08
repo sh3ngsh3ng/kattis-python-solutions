@@ -6,7 +6,6 @@ path_of_new_solutions = current_path + '/new_solutions'
 path_of_solved_solutions = current_path + '/solutions'
 db = []
 readme = []
-
 with open('db.txt', 'r') as f:
     db = [line for line in f]
 with open('readme.md', 'r') as f:
@@ -20,7 +19,7 @@ new_solutions = list(os.walk(path_of_new_solutions))[0][2] # list of solutions f
 old_problems_solved_count = int(db[0].split(':')[1])
 new_problems_solved_count = old_problems_solved_count + len(new_solutions)
 db[0] = f'Problems Solved: {new_problems_solved_count}\n' # updates db count
-# print(f"Count updated from {old_problems_solved_count} to {new_problems_solved_count}")
+#print(f"Count updated from {old_problems_solved_count} to {new_problems_solved_count}")
 
 # Update Read Me
 i=readme.index(f"## Problems Solved: {old_problems_solved_count}\n")
