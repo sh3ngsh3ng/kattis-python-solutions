@@ -15,6 +15,7 @@
 2. Run update.py with the following command:
     - `py update.py`
 
-## Problems Solved: 0
+## Problems Solved: 1
 | Problem ID | Solution |
 |---|---|
+|[different](https://open.kattis.com/problems/different)|[Answer](https://github.com/sh3ngsh3ng/kattis-python-solutions/solutions/different)|

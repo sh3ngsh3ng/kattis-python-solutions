@@ -1,3 +1,4 @@
-Problems Solved: 0
+Problems Solved: 1
 
 Problem ID|Problem URL|Answer|
+|different|https://open.kattis.com/problems/different|https://github.com/sh3ngsh3ng/kattis-python-solutions/solutions/different|
