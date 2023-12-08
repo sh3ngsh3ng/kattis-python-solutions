@@ -1,4 +1,10 @@
-Problems Solved: 1
+Problems Solved: 7
 
 Problem ID|Problem URL|Answer|
 |different|https://open.kattis.com/problems/different|https://github.com/sh3ngsh3ng/kattis-python-solutions/solutions/different|
+|anothercandies|https://open.kattis.com/problems/anothercandies|https://github.com/sh3ngsh3ng/kattis-python-solutions/solutions/anothercandies|
+|coffeecupcombo|https://open.kattis.com/problems/coffeecupcombo|https://github.com/sh3ngsh3ng/kattis-python-solutions/solutions/coffeecupcombo|
+|betting|https://open.kattis.com/problems/betting|https://github.com/sh3ngsh3ng/kattis-python-solutions/solutions/betting|
+|bela|https://open.kattis.com/problems/bela|https://github.com/sh3ngsh3ng/kattis-python-solutions/solutions/bela|
+|undeadoralive|https://open.kattis.com/problems/undeadoralive|https://github.com/sh3ngsh3ng/kattis-python-solutions/solutions/undeadoralive|
+|abc|https://open.kattis.com/problems/abc|https://github.com/sh3ngsh3ng/kattis-python-solutions/solutions/abc|

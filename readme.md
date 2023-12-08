@@ -15,7 +15,13 @@
 2. Run update.py with the following command:
     - `py update.py`
 
-## Problems Solved: 1
+## Problems Solved: 7
 | Problem ID | Solution |
 |---|---|
 |[different](https://open.kattis.com/problems/different)|[Answer](https://github.com/sh3ngsh3ng/kattis-python-solutions/solutions/different)|
+|[anothercandies](https://open.kattis.com/problems/anothercandies)|[Answer](https://github.com/sh3ngsh3ng/kattis-python-solutions/solutions/anothercandies)|
+|[coffeecupcombo](https://open.kattis.com/problems/coffeecupcombo)|[Answer](https://github.com/sh3ngsh3ng/kattis-python-solutions/solutions/coffeecupcombo)|
+|[betting](https://open.kattis.com/problems/betting)|[Answer](https://github.com/sh3ngsh3ng/kattis-python-solutions/solutions/betting)|
+|[bela](https://open.kattis.com/problems/bela)|[Answer](https://github.com/sh3ngsh3ng/kattis-python-solutions/solutions/bela)|
+|[undeadoralive](https://open.kattis.com/problems/undeadoralive)|[Answer](https://github.com/sh3ngsh3ng/kattis-python-solutions/solutions/undeadoralive)|
+|[abc](https://open.kattis.com/problems/abc)|[Answer](https://github.com/sh3ngsh3ng/kattis-python-solutions/solutions/abc)|
