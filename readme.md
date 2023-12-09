@@ -15,18 +15,18 @@
 2. Run update.py with the following command:
     - `py update.py`
 
-## Problems Solved: 12
+## Problems Solved: 24
 | Problem ID | Solution |
 |---|---|
-|[different](https://open.kattis.com/problems/different)|[Answer](https://github.com/sh3ngsh3ng/kattis-python-solutions/solutions/different)|
-|[anothercandies](https://open.kattis.com/problems/anothercandies)|[Answer](https://github.com/sh3ngsh3ng/kattis-python-solutions/solutions/anothercandies)|
-|[coffeecupcombo](https://open.kattis.com/problems/coffeecupcombo)|[Answer](https://github.com/sh3ngsh3ng/kattis-python-solutions/solutions/coffeecupcombo)|
-|[betting](https://open.kattis.com/problems/betting)|[Answer](https://github.com/sh3ngsh3ng/kattis-python-solutions/solutions/betting)|
-|[bela](https://open.kattis.com/problems/bela)|[Answer](https://github.com/sh3ngsh3ng/kattis-python-solutions/solutions/bela)|
-|[undeadoralive](https://open.kattis.com/problems/undeadoralive)|[Answer](https://github.com/sh3ngsh3ng/kattis-python-solutions/solutions/undeadoralive)|
-|[abc](https://open.kattis.com/problems/abc)|[Answer](https://github.com/sh3ngsh3ng/kattis-python-solutions/solutions/abc)|
-|[twostones](https://open.kattis.com/problems/twostones)|[Answer](https://github.com/sh3ngsh3ng/kattis-python-solutions/solutions/twostones)|
-|[kemija08](https://open.kattis.com/problems/kemija08)|[Answer](https://github.com/sh3ngsh3ng/kattis-python-solutions/solutions/kemija08)|
-|[fyi](https://open.kattis.com/problems/fyi)|[Answer](https://github.com/sh3ngsh3ng/kattis-python-solutions/solutions/fyi)|
-|[quadrant](https://open.kattis.com/problems/quadrant)|[Answer](https://github.com/sh3ngsh3ng/kattis-python-solutions/solutions/quadrant)|
-|[jackolanternjuxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition)|[Answer](https://github.com/sh3ngsh3ng/kattis-python-solutions/solutions/jackolanternjuxtaposition)|
+|[abc](https://open.kattis.com/problems/abc)|[Answer](https://github.com/sh3ngsh3ng/kattis-python-solutions/tree/main/solutions/abc)|
+|[anothercandies](https://open.kattis.com/problems/anothercandies)|[Answer](https://github.com/sh3ngsh3ng/kattis-python-solutions/tree/main/solutions/anothercandies)|
+|[bela](https://open.kattis.com/problems/bela)|[Answer](https://github.com/sh3ngsh3ng/kattis-python-solutions/tree/main/solutions/bela)|
+|[betting](https://open.kattis.com/problems/betting)|[Answer](https://github.com/sh3ngsh3ng/kattis-python-solutions/tree/main/solutions/betting)|
+|[coffeecupcombo](https://open.kattis.com/problems/coffeecupcombo)|[Answer](https://github.com/sh3ngsh3ng/kattis-python-solutions/tree/main/solutions/coffeecupcombo)|
+|[different](https://open.kattis.com/problems/different)|[Answer](https://github.com/sh3ngsh3ng/kattis-python-solutions/tree/main/solutions/different)|
+|[fyi](https://open.kattis.com/problems/fyi)|[Answer](https://github.com/sh3ngsh3ng/kattis-python-solutions/tree/main/solutions/fyi)|
+|[jackolanternjuxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition)|[Answer](https://github.com/sh3ngsh3ng/kattis-python-solutions/tree/main/solutions/jackolanternjuxtaposition)|
+|[kemija08](https://open.kattis.com/problems/kemija08)|[Answer](https://github.com/sh3ngsh3ng/kattis-python-solutions/tree/main/solutions/kemija08)|
+|[quadrant](https://open.kattis.com/problems/quadrant)|[Answer](https://github.com/sh3ngsh3ng/kattis-python-solutions/tree/main/solutions/quadrant)|
+|[twostones](https://open.kattis.com/problems/twostones)|[Answer](https://github.com/sh3ngsh3ng/kattis-python-solutions/tree/main/solutions/twostones)|
+|[undeadoralive](https://open.kattis.com/problems/undeadoralive)|[Answer](https://github.com/sh3ngsh3ng/kattis-python-solutions/tree/main/solutions/undeadoralive)|

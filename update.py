@@ -38,7 +38,7 @@ for s in new_solutions:
 # Add new solutions to DB and README variable
 for i in new_solutions:
     ref_url = 'https://open.kattis.com/problems/' + i[:-3]
-    ans_url = f'https://github.com/sh3ngsh3ng/kattis-python-solutions/solutions/' + i[:-3]
+    ans_url = f'https://github.com/sh3ngsh3ng/kattis-python-solutions/tree/main/solutions/' + i[:-3]
     db.append(f"|{i[:-3]}|{ref_url}|{ans_url}|\n")
     readme.append(f"|[{i[:-3]}]({ref_url})|[Answer]({ans_url})|\n")
 
