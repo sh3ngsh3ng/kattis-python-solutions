@@ -22,7 +22,11 @@ db[0] = f'Problems Solved: {new_problems_solved_count}\n' # updates db count
 #print(f"Count updated from {old_problems_solved_count} to {new_problems_solved_count}")
 
 # Update Read Me
-i=readme.index(f"## Problems Solved: {old_problems_solved_count}\n")
+e = f"## Problems Solved: {old_problems_solved_count}\n"
+i= readme.index(e) if e in readme else -1
+if i == -1:
+    print("Count mismatch.")
+    exit()
 readme[i] = f"## Problems Solved: {new_problems_solved_count}\n"
 
 # Move new_solutions to solutions
@@ -41,5 +45,9 @@ for i in new_solutions:
 # Writing to README.md and db.txt
 with open('db.txt', 'w') as f:
     f.writelines(db)
+    print("db.txt updated")
 with open('readme.md', 'w') as f:
     f.writelines(readme)
+    print("readme.md updated")
+
+print("New Solutions Updated")
